@@ -1,6 +1,3 @@
-nrc-zoekt-developer
-===================
-
-NRC Digitaal zoekt een ervaren webontwikkelaar
+# NRC Digitaal zoekt een ervaren webontwikkelaar
 
 Standplaats: Amsterdam
