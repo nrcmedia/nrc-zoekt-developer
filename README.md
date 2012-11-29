@@ -8,4 +8,6 @@ In het Nieuwe Media Team van NRC Digitaal ben jij degene die de informatie-archi
 
 In je CV komen de volgende termen voor: PHP, Python, MySQL, open source, linux, humor en GIT. Niet noodzakelijkerwijs in deze volgorde. Je hebt een relevante afgeronde HBO/WO-opleiding en minimaal 5 jaar ervaring als webontwikkelaar.
 
+NRC Digitaal is verantwoordelijk voor [nrc.nl](http://www.nrc.nl) en de digitale verschijningsvormen van NRC Handelsblad en nrc.next. We maken daarbij gebruik van Wordpress, Solr, CAS en eigen ontwikkelde applicaties in PHP en Python.
+
 Interesse? Stuur voor 15 december een pull request naar [github](https://github.com/nrcmedia/nrc-zoekt-developer/), [@tenhoope](http://twitter.com/tenhoope) of c.tenhoope@nrc.nl.
