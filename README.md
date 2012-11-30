@@ -1,7 +1,7 @@
 NRC Digitaal zoekt per direct een
 # Ervaren webontwikkelaar/informatie-architect
 
-Stromen er bytes door je aderen? Kan je beter programmeren dan sollicitatiebrieven schrijven? En wil je niet bij een dertien-in-een-dozijn ICT-dienstverlener werken, maar bij een ambitieus en innovatief ~~Rotterdams~~ Amsterdams mediabedrijf?
+Stromen er bytes door je aderen? Kun je beter programmeren dan sollicitatiebrieven schrijven? En wil je niet bij een dertien-in-een-dozijn ICT-dienstverlener werken, maar bij een ambitieus en innovatief ~~Rotterdams~~ Amsterdams mediabedrijf?
 
 Dan ben jij degene die we zoeken.
 
