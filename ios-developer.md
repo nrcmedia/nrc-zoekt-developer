@@ -25,7 +25,7 @@ Je voldoet tenminste aan de volgende eisen:
 * Op de hoogte van de laatste iOS-ontwikkelingen.
 * Minimaal 32 uur per week in Amsterdam. 
 
-Wij bieden een uitdagende en verantwoordelijke functie met uitstekende primaire- en secundaire arbeidsvoorwaarden. Salarisindicatie: € 3.500. 
+Wij bieden een uitdagende en verantwoordelijke functie met uitstekende primaire- en secundaire arbeidsvoorwaarden. Salarisindicatie: vanaf € 3.500 op basis van een fulltime dienstverband. 
 
 ### Bedrijfsprofiel
 
