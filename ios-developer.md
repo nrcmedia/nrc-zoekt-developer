@@ -2,7 +2,7 @@ Het Nieuwe Media Team van NRC Media zoekt een
 
 # iOS developer
 
-Het Nieuwe Media Team bestaat uit 6 enthousiaste ontwikkelaars (waaronder een iOS
+Het Nieuwe Media Team bestaat uit 6 enthousiaste ontwikkelaars (onder wie een iOS
 developer) die samen verantwoordelijk zijn voor het ontwerp, de techniek en het beheer
 van nrc.nl en onze apps. We werken nauw samen met de redactie, waardoor we in korte tijd
 aanpassingen kunnen doen aan de site om snel te kunnen reageren op het nieuws. Daarnaast
