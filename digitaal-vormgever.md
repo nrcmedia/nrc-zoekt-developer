@@ -1,6 +1,6 @@
 Het Nieuwe Media Team van NRC Media zoekt een
 
-# Digitaal vormgever
+# Digitaal Vormgever
 
 Het Nieuwe Media Team bestaat uit 6 enthousiaste ontwikkelaars en vormgevers die samen verantwoordelijk zijn voor het ontwerp, de techniek en het beheer van nrc.nl en onze apps. We werken nauw samen met de redactie, waardoor we in korte tijd
 aanpassingen kunnen doen aan de site om snel te kunnen reageren op het nieuws. Daarnaast verzorgen we ook grotere producties zoals [nrc.nl/berry](http://nrc.nl/berry) en [nrc.nl/kunsthal](http://nrc.nl/kunsthal).
