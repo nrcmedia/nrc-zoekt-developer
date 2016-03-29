@@ -1,4 +1,4 @@
-Het Nieuwe Media Team van NRC Media zoekt een
+Het Nieuwe Media Team van NRC Media zocht een
 
 # Digitaal Vormgever
 
@@ -30,4 +30,4 @@ Wij bieden een uitdagende en verantwoordelijke functie met uitstekende primaire-
 
 NRC Media is de uitgever van NRC Handelsblad, nrc.next en nrc.nl. Het is ons streven onze lezers te voorzien van relevante informatie op grond waarvan zij zelf meningen kunnen vormen, niet om onze eigen mening op te dringen. Naast onze journalistieke producten exploiteren wij een [webwinkel](http://www.nrclux.nl) en een [restaurant-café](http://www.nrcrestaurantcafe.nl). Als gevolg van de verzelfstandiging, de dagelijkse actualiteit en de externe competitie is het bedrijf dynamisch en continu in beweging.   Bij NRC Media werken ruim 360 mensen. Als werkgever hecht NRC Media aan kwaliteit, aan creativiteit en aan resultaat – of dat nu tussen negen en vijf wordt geboekt of daarbuiten.
 
-Interesse? Stuur voor 22 februari 2014 een motivatie, beknopt portfolio en cv naar [Christian ten Hoope](mailto:c.tenhoope@nrc.nl).  Heb je vragen, neem dan contact op met [Koen Smeets](mailto:k.smeets@nrc.nl).
+Interesse? Helaas, de vacature is gesloten.
