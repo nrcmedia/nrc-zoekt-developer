@@ -13,4 +13,4 @@ In je CV komen de volgende termen voor: PHP, Python, MySQL, open source, linux, 
 
 NRC Digitaal is verantwoordelijk voor [nrc.nl](http://www.nrc.nl) en de digitale verschijningsvormen van NRC Handelsblad en nrc.next. We maken daarbij gebruik van WordPress, Solr (op [zoeken.nrc.nl](http://zoeken.nrc.nl/?q=ondersteboven)), [CAS](http://en.wikipedia.org/wiki/Central_Authentication_Service) en eigen ontwikkelde applicaties in PHP en Python.
 
-Interesse? Helaas, de vacature is gesloten.
+Interesse? Doe een pull-request en wie weet mergen we je in ons team.
