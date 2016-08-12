@@ -31,4 +31,4 @@ Wij bieden een uitdagende en verantwoordelijke functie met uitstekende primaire-
 
 NRC Media is de uitgever van NRC Handelsblad, nrc.next en nrc.nl. Het is ons streven onze lezers te voorzien van relevante informatie op grond waarvan zij zelf meningen kunnen vormen, niet om onze eigen mening op te dringen.  Als gevolg van de verzelfstandiging, de dagelijkse actualiteit en de externe competitie is het bedrijf dynamisch en continu in beweging.   Bij NRC Media werken ruim 360 mensen. Als werkgever hecht NRC Media aan kwaliteit, aan creativiteit en aan resultaat – of dat nu tussen negen en vijf wordt geboekt of daarbuiten.
 
-Interesse? Helaas, de vacature is gesloten.
+Interesse? Stuur een pull request naar github, een mention naar @tenhoope of een mail naar c.tenhoope@nrc.nl.
