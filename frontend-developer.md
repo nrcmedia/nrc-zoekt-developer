@@ -5,10 +5,9 @@ Stromen er bytes door je aderen? Schrijf je liever goede code dan een sollicitat
 
 Dan ben jij degene die we zoeken.
 
-In het Nieuwe Media Team werk je aan de digitale toekomst van NRC. Dat doe je door te zorgen dat de digitale uitgaven van NRC ([nrc.nl](http://www.nrc.nl) en de apps) het beste podium voor kwaliteitsjournalistiek zijn en blijven.
+In het Nieuwe Media Team werk je aan de digitale toekomst van NRC. We werken in een klein maar hecht team, dat in nauwe samenwerking met de redactie van NRC zorgt dat de digitale uitgaven van NRC ([nrc.nl](http://www.nrc.nl) en de apps)  het beste podium voor kwaliteitsjournalistiek zijn en blijven. Onze werksfeer is professioneel maar informeel.
 
-We staan open voor experimenten, nieuwe toepassingen en nieuwe tools (wel overtuig je eerst je collega’s van het nut ervan). Je houdt nieuwe ontwikkelingen in de gaten en past ze toe. 
-
+We houden van experimenten, nieuwe toepassingen en nieuwe tools. Je houdt nieuwe ontwikkelingen in de gaten en past ze toe. 
 In je CV komen de volgende termen voor: HTML5, Javascript, ES6, jQuery, CSS, Sass, Flexbox en Git. Je hebt ervaring met responsive design en progressive enhancement, en hebt aandacht voor cross-browser compatibiliteit, interactie, toegankelijkheid en performance.
 
 Je schrijft gestructureerde, duidelijke code en houdt ervan in een team van mensen met verschillende specialismes samen aan een project te werken.
