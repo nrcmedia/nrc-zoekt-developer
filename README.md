@@ -1,1 +1,1 @@
-NRC zoekt per direct een ervaren [back-end developer](https://github.com/nrcmedia/nrc-zoekt-developer/blob/master/web-developer.md) en [front-end developer](https://github.com/nrcmedia/nrc-zoekt-developer/blob/master/frontend-developer.md).
+NRC zoekt per direct een ervaren [backend developer / devops engineer](https://github.com/nrcmedia/nrc-zoekt-developer/blob/master/backend-developer-devops-engineer.md).
