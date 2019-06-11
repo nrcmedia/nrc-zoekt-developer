@@ -8,7 +8,7 @@ Dan ben jij degene die we zoeken.
 In het Nieuwe Media Team werk je aan de digitale toekomst van NRC. We werken in een klein maar hecht team, dat in nauwe samenwerking met de redactie van NRC zorgt dat de digitale uitgaven van NRC ([nrc.nl](http://www.nrc.nl) en de apps)  het beste podium voor kwaliteitsjournalistiek zijn en blijven. Onze werksfeer is professioneel maar informeel.
 
 We houden van experimenten, nieuwe toepassingen en nieuwe tools. Je houdt nieuwe ontwikkelingen in de gaten en past ze toe. 
-In je CV komen de volgende termen voor: HTML5, Javascript, ES6, jQuery, CSS, Sass, Flexbox en Git. Ervaring met React komt goed van pas. Je hebt ervaring met responsive design en progressive enhancement, en hebt aandacht voor cross-browser compatibiliteit, interactie, toegankelijkheid en performance. 
+In je CV komen de volgende termen voor: HTML5, Javascript, ES8, jQuery, CSS, Sass, Flexbox en Git. Ervaring met React komt goed van pas. Je hebt ervaring met responsive design en progressive enhancement, en hebt aandacht voor cross-browser compatibiliteit, interactie, toegankelijkheid en performance. 
 
 Je schrijft gestructureerde, duidelijke code en houdt ervan in een team van mensen met verschillende specialismes samen aan een project te werken.
 
